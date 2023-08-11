@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   academic_history:  "A Mountain Climbed with Komplete Kontrolled Plan",
   political_party:  "A Ship Sailing Towards the Whirlpool of Diffusion Index",
   personality:  "A Canvas Painted with the Colors of Integrity",
-  motto:  "Happiness is Only Real When Shared, with Only Limited Community",
+  motto:  "Happiness Only Real When Shared, with Only Limited Community",
   interest:  "Requinto"
 } 
 ```
