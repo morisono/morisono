@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   icon:  "👶",
   personal_color:  "#dcab4f",
   academic_history:  "A Mountain Climbed with Komplete Kontrolled Plan",
-  political_party:  "A Ship Sailing Towards the Whirlpool of Economic Tormoil",
+  political_party:  "A Ship Sailing Towards the Whirlpool of Economic Confusion",
   personality:  "A Canvas Painted with the Colors of Integrity",
   motto:  "Happiness Only Real When Shared, with Only Limited Community",
   interest:  "Requinto"
