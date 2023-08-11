@@ -19,13 +19,13 @@ Here are some ideas to get you started:
  {
   user_id:  "morisono",
   birth:  "August",
-  address:  "Almost Cyberpunk City without Economic Progress of Comical People Marching",
+  address:  "Almost Cyberpunk City without Economic Progress",
   icon:  "👶",
-  themes:  "#bc0f71",
-  motto:  "Happiness is Only Real When Shared, with Limited People",
+  personal_color:  "#bc0f71",
   academic_history:  "A Mountain Climbed with Komplete Kontrolled Predestination",
   political_party:  "A Ship Sailing Towards the Whirlpool of Diffusion Index",
   personality:  "A Canvas Painted with the Colors of Integrity",
+  motto:  "Happiness is Only Real When Shared, with Limited People",
   interest:  "Requinto"
 } 
 ```
