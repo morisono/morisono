@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   birth:  "August",
   address:  "Almost Cyberpunk City without Economic Progress",
   icon:  "👶",
-  personal_color:  "#bc0f71",
+  personal_color:  "#dcab4f",
   academic_history:  "A Mountain Climbed with Komplete Kontrolled Predestination",
   political_party:  "A Ship Sailing Towards the Whirlpool of Diffusion Index",
   personality:  "A Canvas Painted with the Colors of Integrity",
